@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012522422386",
+    "project_id": "rig-works",
+    "storage_bucket": "rig-works.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012522422386:android:488fd7c6b2b61a9e6572eb",
+        "android_client_info": {
+          "package_name": "com.patrickgonzaga.rig_works"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqhQyouIcDPkxdSl4h_N0x_wSxHJ-alE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

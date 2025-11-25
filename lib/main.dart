@@ -17,8 +17,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Rig Works',
       theme: ThemeData(
-        primarySwatch: Colors.deepOrange,
-        primaryColor: Colors.deepOrangeAccent,
+        primarySwatch: Colors.blueGrey,
+        primaryColor: Colors.blueAccent,
       ),
       home: HomeScreen(),
     );
